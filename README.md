@@ -1,58 +1,42 @@
-<p align="center">
-  <img src="banner.png" alt="Tanishq Sharma — Software Engineer" width="100%" />
+<h2>Hey 👋, I'm Tanishq</h2>
+<p>I'm currently a <strong>Senior Full Stack Engineer</strong> at <strong>Skillnet Solutions</strong> based in 🇮🇪 Ireland. I ship TypeScript commerce systems to production — checkout, payments, search, and the AWS plumbing that keeps orders moving.</p>
+<p>
+  <a href="https://www.linkedin.com/in/tanishqxsharma"><img src="https://img.shields.io/badge/-tanishqxsharma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://github.com/SharmaTanishq"><img src="https://img.shields.io/badge/-SharmaTanishq-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge"></a>
+  <a href="mailto:sxtanishq@gmail.com"><img src="https://img.shields.io/badge/-sxtanishq@gmail.com-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white" alt="Email Badge"></a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanishqxsharma">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:tanishqsharma.sharma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&amp;logo=gmail&amp;logoColor=f0c014" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ireland-050505?style=flat-square&amp;logo=openstreetmap&amp;logoColor=f0c014" alt="Ireland" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Available_for_hire-111111?style=flat-square&amp;logoColor=f0c014" alt="Available for hire" />
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently a Senior Full Stack Engineer at <strong>Skillnet Solutions</strong> (since 2023), owning features end to end across <strong>VTEX</strong>, <strong>Kibo</strong>, and <strong>Commercetools</strong>.</li>
+<li>🛒 Recent work: D2C checkout and payments, Vertex tax / UPS shipping, loyalty integrations, and OpenSearch — including cutting kiosk search latency ~70%.</li>
+<li>☁️ Production on <strong>AWS</strong> (EKS, Lambda, S3, IAM) with <strong>Terraform</strong>, GitLab CI/CD, MySQL, PostgreSQL, Redis, and Elasticsearch/OpenSearch.</li>
+<li>🧠 Daily <strong>Cursor</strong> user; I own reviews and production outcomes, not just tickets.</li>
+<li>💬 Ping me about <strong>TypeScript, GraphQL, Next.js, and e-commerce platforms</strong>.</li>
+<li>🎓 B.Tech, KIIT University (2022) · VTEX IO Advanced Developer · GraphQL Full Stack (Coursera).</li>
+<li>🎉 Fun fact: 4+ years shipping commerce to production, from fragile MVP to systems that stay up.</li>
+</ul>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxt" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="nestjs" width="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="25" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="25" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" />
 </p>
-
----
-
-Hey — I'm **Tanishq**, a software engineer who likes the messy middle of products: storefronts, integrations, and the systems that keep orders moving.
-
-I've spent most of my career in e-commerce — VTEX, Spryker, wholesale platforms — shipping storefronts, APIs, and the plumbing in between.
-
-**Now:** Associate Consultant at SkillNet · Ireland
-
-## Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=111" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=111" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=white" alt="Nuxt" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&amp;logo=apollographql&amp;logoColor=white" alt="Apollo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VTEX-F71963?style=flat-square&amp;logo=vtex&amp;logoColor=white" alt="VTEX" />
-  <img src="https://img.shields.io/badge/Medusa-000000?style=flat-square&amp;logo=medusa&amp;logoColor=white" alt="Medusa" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-</p>
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/SharmaTanishq"><img src="./icons/github.svg" width="32" height="32" alt="GitHub" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanishqxsharma"><img src="./icons/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:tanishqsharma.sharma@gmail.com"><img src="./icons/gmail.svg" width="32" height="32" alt="Email" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SharmaTanishq&show_icons=true&count_private=true" alt="SharmaTanishq" />
