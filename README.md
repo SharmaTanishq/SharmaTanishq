@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Tanishq</h2>
-<p>I'm currently a <strong>Senior Full Stack Engineer</strong> at <strong>Skillnet Solutions</strong> based in 🇮🇪 Ireland. I ship TypeScript commerce systems to production — checkout, payments, search, and the AWS plumbing that keeps orders moving.</p>
+<p>I'm currently a <strong>Senior Full Stack Engineer</strong> at <strong>Skillnet Solutions</strong> based in 🇮🇳 India, I ship TypeScript commerce systems to production like checkout, payments, search, and the AWS plumbing that keeps orders moving.</p>
 <p>
   <a href="https://www.linkedin.com/in/tanishqxsharma"><img src="https://img.shields.io/badge/-tanishqxsharma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://github.com/SharmaTanishq"><img src="https://img.shields.io/badge/-SharmaTanishq-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge"></a>
@@ -9,10 +9,10 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently a Senior Full Stack Engineer at <strong>Skillnet Solutions</strong> (since 2023), owning features end to end across <strong>VTEX</strong>, <strong>Kibo</strong>, and <strong>Commercetools</strong>.</li>
-<li>🛒 Recent work: D2C checkout and payments, Vertex tax / UPS shipping, loyalty integrations, and OpenSearch — including cutting kiosk search latency ~70%.</li>
+<li>🛒 Recent work: D2C checkout and payments, Vertex tax / UPS shipping, loyalty integrations, and OpenSearch including cutting client's Kiosk search latency by 70%.</li>
 <li>☁️ Production on <strong>AWS</strong> (EKS, Lambda, S3, IAM) with <strong>Terraform</strong>, GitLab CI/CD, MySQL, PostgreSQL, Redis, and Elasticsearch/OpenSearch.</li>
 <li>🧠 Daily <strong>Cursor</strong> user; I own reviews and production outcomes, not just tickets.</li>
-<li>💬 Ping me about <strong>TypeScript, GraphQL, Next.js, and e-commerce platforms</strong>.</li>
+<li>💬 Ping me about <strong> TypeScript, GraphQL, Next.js, and e-commerce platforms</strong>.</li>
 <li>🎓 B.Tech, KIIT University (2022) · VTEX IO Advanced Developer · GraphQL Full Stack (Coursera).</li>
 <li>🎉 Fun fact: 4+ years shipping commerce to production, from fragile MVP to systems that stay up.</li>
 </ul>
@@ -39,4 +39,4 @@
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="25" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=SharmaTanishq&show_icons=true&count_private=true" alt="SharmaTanishq" />
+
