@@ -3,7 +3,7 @@
 <p>
   <a href="https://www.linkedin.com/in/tanishqxsharma"><img src="https://img.shields.io/badge/-tanishqxsharma-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://github.com/SharmaTanishq"><img src="https://img.shields.io/badge/-SharmaTanishq-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;logoColor=white" alt="GitHub Badge"></a>
-  <a href="mailto:sxtanishq@gmail.com"><img src="https://img.shields.io/badge/-sxtanishq@gmail.com-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white" alt="Email Badge"></a>
+  <a href="mailto:tanishqsharma.work@gmail.com"><img src="https://img.shields.io/badge/-tanishqsharma.work@gmail.com-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white" alt="Email Badge"></a>
 </p>
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
